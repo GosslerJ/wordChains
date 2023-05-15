@@ -47,5 +47,5 @@ Standard bemenet helyett fájlból olvassa fel a szóláncban felhasználandó s
 
 ### Futtatás
 
-* StandardInput: A program futtatása után a szavakat a standard bemeneten kell megadni.
-* FileInput: A program futtatása után a szavakat az input.txt fájlban kell megadni.
+* StandardInput.java: A program futtatása után a szavakat a standard bemeneten kell megadni.
+* FileIO.java: A program futtatása után a szavakat az input.txt fájlban kell megadni.
