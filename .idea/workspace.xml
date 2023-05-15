@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8c85f68-ae71-452e-a1ad-3975382466de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/wordchain/FileIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/wordchain/StandardInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/wordchain/WordChains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/wordchain/resources/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/wordchain/StandardInputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/wordchain/WordChainsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordChain.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PoooV9Qyjy4RWKXNumml0vY6Hk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/goszi/Documents/github/wordChain"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\goszi\Documents\github\wordChain" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.test.java.wordchain in wordChain">
+    <configuration name="FileIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.wordchain.FileIO" />
+      <module name="wordChain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.wordchain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.java.wordchain.StandardInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.wordchain.StandardInput" />
+      <module name="wordChain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.wordchain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordChainsTest.testBuildMapWithOneWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wordChain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.wordchain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.wordchain" />
+      <option name="MAIN_CLASS_NAME" value="test.java.wordchain.WordChainsTest" />
+      <option name="METHOD_NAME" value="testBuildMapWithOneWord" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordChainsTest.testWordChains3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wordChain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.wordchain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.wordchain" />
+      <option name="MAIN_CLASS_NAME" value="test.java.wordchain.WordChainsTest" />
+      <option name="METHOD_NAME" value="testWordChains3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.java.wordchain in wordChain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wordChain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.wordchain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.wordchain" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.test.java.wordchain in wordChain" />
+        <item itemvalue="JUnit.WordChainsTest.testBuildMapWithOneWord" />
+        <item itemvalue="Application.FileIO" />
+        <item itemvalue="Application.main.java.wordchain.StandardInput" />
+        <item itemvalue="JUnit.WordChainsTest.testWordChains3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8c85f68-ae71-452e-a1ad-3975382466de" name="Changes" comment="" />
+      <created>1684132975486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684132975486</updated>
+    </task>
+    <servers />
+  </component>
+</project>
