@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8c85f68-ae71-452e-a1ad-3975382466de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wordchain/FileIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wordchain/StandardInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wordchain/WordChains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wordchain/resources/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/wordchain/StandardInputTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/wordchain/WordChainsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wordChain.iml" afterDir="false" />
-    </list>
+    <list default="true" id="c8c85f68-ae71-452e-a1ad-3975382466de" name="Changes" comment="&quot;word chain task&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,6 +140,18 @@
       <option name="presentableId" value="Default" />
       <updated>1684132975486</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;word chain task&quot;">
+      <created>1684154772002</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684154772002</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;word chain task&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;word chain task&quot;" />
   </component>
 </project>
